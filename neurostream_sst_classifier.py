@@ -2,7 +2,7 @@
 # NEUROSTREAM-SST: SPECTRAL-SPATIO-TEMPORAL EEG CLASSIFIER (2026)
 # ----------------------------------------------------------------------------
 # Inspired by:
-#   "NeuroStream: spectral-spatio-temporal deep learning for visual stimulus
+#   "NeuroStream: spectral-spatio-temporal neural architecture for visual stimulus
 #    classification from EEG" (Scientific Reports, September 2026)
 #
 # Addresses all 5 critical scientific methodology challenges on EEGCVPR40:
