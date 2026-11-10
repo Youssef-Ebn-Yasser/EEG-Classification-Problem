@@ -1,0 +1,11 @@
+# Summary and experiment text notes (private local notes)
+*.txt
+SUMMARY_OF_ALL_EXPERIMENTS.txt
+
+# Python cache & model checkpoints
+__pycache__/
+*.pyc
+*.pt
+*.pth
+.ipynb_checkpoints/
+eeg_denoiser_results/
